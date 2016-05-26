@@ -1,0 +1,24 @@
+{
+    "name": "jquery-griddle",
+    "license": "MIT",
+    "authors": [
+        "James Buncle <jbuncle@hotmail.com>"
+    ],
+    "description": "jQuery Plugin to responsively equalise horizontal widths of floated elements.",
+    "keywords": [
+        "jquery",
+        "plugin",
+        "griddle",
+        "jquery-plugin",
+        "jquery-griddle"
+    ],
+    "main": "src/jquery.griddle.js",
+    "dependencies": {
+        "jquery": "1"
+    },
+    "ignore": [
+        "npm-debug.log",
+        "bower_components",
+        "node_modules"
+    ]
+}

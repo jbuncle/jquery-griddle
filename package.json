@@ -1,0 +1,35 @@
+{
+    "name": "jquery-griddle",
+    "version": "1.0.0",
+    "description": "jQuery Plugin to responsively equalise horizontal widths of floated elements.",
+    "keywords": [
+        "jquery-plugin",
+        "jquery",
+        "griddle",
+        "plugins"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jquery-griddle/jquery-griddle.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jquery-griddle/jquery-griddle/issues"
+    },
+    "author": {
+        "name": "James Buncle",
+        "email": "jbuncle@hotmail.com",
+        "url": "https://github.com/jbuncle"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "jquery": ">=1.5.1"
+    },
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-contrib-concat": "^0.5.1",
+        "grunt-contrib-uglify": "^0.9.2",
+        "grunt-contrib-watch": "^0.6.1",
+        "phantomjs": "^1.9.18",
+        "qunitjs": "^1.19.0"
+    }
+}
